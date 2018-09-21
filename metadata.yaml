@@ -1,5 +1,8 @@
 _repo: Rough-Ways-Made-Smooth-A-series-of-familiar-essays-on-scientific-subjects_54557
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54557-h/images/cover.jpg
 creator:
   author:
     agent_name: Proctor, Richard A. (Richard Anthony)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6917
     wikipedia: http://en.wikipedia.org/wiki/Richard_Anthony_Proctor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54557#Rough-Ways-Made-Smooth-A-series-of-familiar-essays-on-scientific-subjects
 gutenberg_issued: '2017-04-17'
 gutenberg_type: Text
 identifiers:
